@@ -7,4 +7,5 @@ On one seemingly normal day in Lande's village, Lande was chilling out on a tree
 ## Support
 If you want to support our project:
 discord - https://discord.gg/QNKekyfN
+
 youtube - https://www.youtube.com/@brickbrothersgamedev
