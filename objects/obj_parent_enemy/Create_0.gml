@@ -1,0 +1,9 @@
+hsp = 0
+vsp = 0
+movespeed = 3
+grv = 0.1
+dir = 1
+ground = 1
+state = "move"
+deadspr = spr_noia
+movespr = spr_noia_placeholder

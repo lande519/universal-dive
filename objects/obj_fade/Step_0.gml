@@ -1,0 +1,1 @@
+image_alpha = clamp(image_alpha - 0.07, 0, 1);

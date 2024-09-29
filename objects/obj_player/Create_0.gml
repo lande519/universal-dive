@@ -1,0 +1,13 @@
+hsp = 0
+vsp = 0
+movespeed = 3
+grv = 0.1
+dir = 1
+move = 0
+flightspeed = 3
+flighttime = 292
+ground = 1
+state = "normal"
+spining = 0
+warpin = 0
+flighttimedefult = 220
